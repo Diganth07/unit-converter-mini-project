@@ -15,3 +15,9 @@ python app.py
 ```
 
 Select a category, enter an amount, choose the source and destination units, and click **Convert**.
+
+## Project QR Code
+
+Scan to open this GitHub repository:
+
+![QR code linking to this repository](qr-code.png)
